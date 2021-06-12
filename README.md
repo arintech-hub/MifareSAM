@@ -8,8 +8,7 @@ The APDU is defined by the standard ISO/IEC 7816 part 4.
 * javaxsmartcardio.md   # a summary of the javax.smartcardio Oracle API
 * authentication.md     # a summary of the method for authenticate a Mifare DESFire card
 * keyStore              # info of keys in SAM
-* authenExample.java    # example code
-* 
+* authenExample.java    # example code 
 
 ## Installation 
 
